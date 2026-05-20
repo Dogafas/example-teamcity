@@ -15,6 +15,6 @@ public class Welcomer{
     }
 
     public String reply(String name) {
-        return "Hello, " + name;
+        return "Hello, hunter " + name;
     }
 }
